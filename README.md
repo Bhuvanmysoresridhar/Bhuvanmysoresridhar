@@ -30,7 +30,7 @@ I’m passionate about exploring the fascinating world of **data analytics** and
 ## 🛠️ Skills  
 - **Languages:** Python, SQL  
 - **Tools:** Tableau, Power BI, Excel  
-- **Frameworks & Technologies:** Spark, ETL  
+- **Frameworks & Technologies:** Spark, ETL, Big Data
 
 ---
 
